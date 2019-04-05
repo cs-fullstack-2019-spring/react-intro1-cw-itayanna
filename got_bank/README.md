@@ -1,3 +1,6 @@
+## POINTS: 2.0
+## KEY: Good Job, but be sure to comment your React component code! I let it slide since 1st day with React ;-)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
